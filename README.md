@@ -8,7 +8,7 @@ simple stegnography ctf for beginners
 
 </p>
 
-<img al
+
 
 
 
