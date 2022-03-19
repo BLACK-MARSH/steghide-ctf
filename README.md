@@ -1,6 +1,6 @@
-𝐶𝐶-𝑆𝐼𝑀-𝐶𝑅𝐴𝐶𝐾
+steghide ctf
 
-𝐶𝐶-𝑆𝐼𝑀-𝐶𝑅𝐴𝐶𝐾 IS AN AUTOMATIC PYTHON TOOL USED FOR SPAMING OTP IN HIGH SPEED 
+simple stegnography ctf for beginners
 
 <p>
 
@@ -10,40 +10,19 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-.
-
-<p align="center">
-
-<a href="https://wa.me/+994409727638"><img title="PEFEXX" src="https://img.shields.io/badge/PEFEXX-CONTACT ME ON-PEFEX/PEFEXX%20SMILE?color=Blue&style=for-the-badge&logo=whatsapp"></a>
-
-<p align="center">
-
----
-
-@PEFEXX
-
-
-𝐶𝐶-𝑆𝐼𝑀-𝐶𝑅𝐴𝐶𝐾
-
-* apt update 
-
-*apt upgrade 
-
-*pkg install git 
-
-*pkg install python
-
-*pkg install python2 
-
-git clone https://github.com/BLACK-MARSH/CC-SIM-CRACK
-
-cd CC-SIM-CRACK
-
-python3 cc_sim_crack.py
 
 
 
-𝘊𝘖𝘗𝘠𝘐𝘕𝘎 𝘖𝘙 𝘌𝘋𝘐𝘛𝘐𝘕𝘎 𝘛𝘏𝘌 𝘚𝘖𝘜𝘙𝘊𝘌 𝘊𝘖𝘋𝘌 𝘐𝘚 𝘕𝘖𝘛 𝘗𝘌𝘙𝘔𝘐𝘛𝘌𝘋
+
+
+
+
+
+
+
+
+
+
 
   
    
