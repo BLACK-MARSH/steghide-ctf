@@ -11,7 +11,7 @@ simple stegnography ctf for beginners
 
 
 
-
+Steganography is the practice of hiding a secret message in something that is not secret. But cyberattackers use steganography to do more than share messages. One of the first things I remember doing as a kid was writing secret messages to friends using invisible ink.
 
 
 
