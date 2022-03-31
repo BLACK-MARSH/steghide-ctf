@@ -20,7 +20,6 @@ Steganography is the practice of hiding a secret message in something that is no
 𝙔𝙊𝙐 𝘾𝘼𝙉 𝘼𝙇𝙎𝙊 𝘿𝙊 𝙏𝙃𝙄𝙎 𝘾𝙏𝙁 𝙊𝙉 𝙏𝙀𝙍𝙈𝙐𝙓
 
 
-𝙥𝙠𝙜 𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝙨𝙩𝙚𝙜𝙝𝙞𝙙𝙚
 
 
 
