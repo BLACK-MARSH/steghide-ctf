@@ -83,7 +83,7 @@ Steganography is the practice of hiding a secret message in something that is no
 
 
 
-https://github.com/BLACK-MARSH/steghide-ctf
+https://github.com/injectaa/steghide-ctf
 
 
 
